@@ -1,20 +1,3 @@
-<h1 align="center">Hi, I'm 👋</h1>
-<h3 align="center">DevOps Engineer | Linux & Security</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=DevOps+%7C+Linux+%7C+Security;CI%2FCD+and+infrastructure+automation;Monitoring+and+Observability" alt="Typing SVG" />
-</p>
-
----
-
-### 👨‍💻 About me
-
-- 🔧 Working in **DevOps**: Linux server administration, CI/CD, containerization, monitoring
-- 🔐 Interested in infrastructure **security** and SSH hardening
-- 🤖 Following AI/ML tooling and applying it to daily workflows
-
----
-
 ### 🛠️ Tech Stack
 
 **OS & Administration**
